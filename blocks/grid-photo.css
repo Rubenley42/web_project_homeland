@@ -7,7 +7,7 @@
     margin-bottom: 62px;
 }
 
-.grid-photo_image{
+.grid-photo__image{
     width: 100%;
     object-fit: cover;
 }
